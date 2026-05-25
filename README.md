@@ -27,36 +27,6 @@ This project focuses on Signal and Image Processing using Deep Learning techniqu
 4. Train CNN model on processed data
 5. Evaluate model performance and visualize results
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/signal-image-processing-project.git
-```
-
-Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-IT_PROJECT.ipynb
-```
-
-and execute all cells.
-
 ## Applications
 - Predictive maintenance
 - Fault detection in motors
@@ -68,6 +38,3 @@ and execute all cells.
 - Improved dataset size and accuracy
 - Deployment using Flask/Streamlit
 - Advanced deep learning architectures
-
-## Author
-Your Name
